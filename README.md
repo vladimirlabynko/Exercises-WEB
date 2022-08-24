@@ -1,6 +1,6 @@
 # Exercises-WEB
 
-DEMO PYQT5 app for pose recognition in fitness.
+DEMO FLASK app for pose recognition in fitness.
 
 To run demo:
 
